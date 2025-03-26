@@ -30,6 +30,7 @@
       "time": "11:00",
       "organizer": "Carey Wales"
     },
+    {
      "id": 101112,
       "category": "sports",
       "title": "Football",
@@ -38,6 +39,6 @@
       "date": "July 01, 2011",
       "time": "11:00",
       "organizer": "Pele"
-    },
+    }
   ]
 }
